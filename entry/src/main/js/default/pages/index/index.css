@@ -49,7 +49,7 @@ image {
 }
 
 .left{
-    width: 300px;
+    width: 330px;
     margin-left: 53px;
     border:2px solid green;
     display: flex;
@@ -59,16 +59,16 @@ image {
 
 }
 .right{
-    width: 383px;
+    width: 393px;
     height: 521px;
-    margin-right: 55px;
+/*    margin-right: 55px;*/
     border:2px solid blue;
     display:flex;
     flex-direction: column;
     align-items: center;
 }
 .middle{
-    width: 383px;
+    width: 393px;
     height: 521px;
     border:2px solid yellow;
     display: flex;
@@ -155,4 +155,17 @@ image {
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 10px;
+}
+.fuelindicator{
+    border: 1px solid violet;
+    margin-top: 54.84px;
+
+    height: 48.59px;
+
+}
+.fuel-read{
+    border:1px solid blue;
+    display: flex;
+/*    flex-direction: column;*/
+    align-items: flex-end;
 }
