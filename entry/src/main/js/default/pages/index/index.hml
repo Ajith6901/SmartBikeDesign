@@ -1,0 +1,144 @@
+<!--&lt;!&ndash;<element src="../../../../../../../smartbikedesignlibrary/js/index.hml" name ="SmartBike"></element>&ndash;&gt;-->
+<!--<SmartBike image="https://lh3.googleusercontent.com/ogw/ADea4I5L0IsuKGGz3Ne1DGm44fm2W3x2zq9vS9kiMlDP3A=s32-c-mo">-->
+
+<!--</SmartBike>-->
+
+<div class="container1">
+
+
+    <div class="child-container1">
+
+
+            <image class="image"src="/common/images/header/left_indicator_on.png" alt="left_indicator"style="margin-left:36px;" />
+            <image class="image "src="/common/images/header/low_beam.png" alt="low_beam"/>
+            <image class="image "src="/common/images/header/bluetooth.png" alt="bluetooth"/>
+            <text style="color: white;  font-weight: 800; font-size: 27.3px;"> &nbsp;0 1&nbsp;&nbsp;:&nbsp;&nbsp;2 0&nbsp;&nbsp;P M&nbsp;&nbsp; </text>
+            <image class="image "src="/common/images/header/side_stand.png" alt="sidestand"/>
+            <image class="image "src="/common/images/header/high_beam_on.png" alt="high_beam"/>
+            <image class="image "src="/common/images/header/right_indicator_off.png" style="margin-right:36px ;" alt="right_beam"/>
+<!--        <text style="color: #FFFFFF; padding-left: 10px;">Hello world</text>-->
+
+        <!--First row for header area-->
+
+    </div>
+
+
+    <div class="child-container2">
+        <!--Middle area-->
+        <div class="left">
+            <div style="border:2px solid purple;margin-top: 49.63px;">
+            <text style=" color:#8C8C8C ; font-size: 18px; padding-right: 17%; font-weight: 500;">Front 30 PSI</text>
+            <text style="  color:#8C8C8C;font-size: 18px; font-weight: 500;">Rear 32 PSI</text>
+            </div>
+
+            <!--E R SPORT-->
+            <div style="margin-top: 87.41px;">
+                <text style="color: white; font-size: 26.13px; ">E</text>
+                <text style="color: white; font-size: 26.13px; padding-left: 58.48px;">R</text>
+                <text style=" margin-left:47.28px; padding:5px; color: orange; border: 1px solid orange; font-weight: 500; border-radius: 3px;">SPORT</text>
+            </div>
+
+            <!-- Fuel indicator -->
+            <div style="border: 1px solid violet; margin-top: 54.84px; height: 48.59px;">
+                <image src="/common/images/left/fuel.png" style="margin-top: 5px;">/</image>
+<!--                <image src="/common/images/left/fuel_10.png" style="width:5px;height: 5px;"></image>-->
+<!--                <image src="/common/images/left/fuel_20.png" width="18px" height="4px"></image>-->
+<!--                <image src="/common/images/left/fuel_40.png" width="18px" height="19px"></image>-->
+<!--                <image src="/common/images/left/fuel_60.png" width="18px" height="27px"></image>-->
+<!--                <image src="/common/images/left/fuel_80.png" width="18px" height="40px"></image>-->
+<!--                <image src="/common/images/left/fuel_100.png"width="18px" height="49px"></image>-->
+
+            </div>
+
+            <!--Est Km Left-->
+
+           <div class="EKL">
+     <div>
+     <progress class="min-progress" type="horizontal" percent= "70"></progress>
+     <text style="color: white;font-size: 26px; font-weight: 500; margin-left: 25px;">110</text>
+     </div>
+               <div>
+               <text style="color:#8C8C8C;margin-top: 10px; font-size:18px;color:#8C8C8C">Est Km Range Left</text>
+               </div>
+
+           </div>
+
+        </div>
+
+
+        <div class="middle">
+
+            <div class="caller">
+                <div class="call">
+                <image src="/common/images/middle/user_pic.png" style=""></image>
+                <text style="font-size: 32px; color: white; ;"> Kate Cross </text>
+                <image src="/common/images/middle/call_connect.png" style="margin-left: -2%;"></image>
+                <image src="/common/images/middle/call_disconnect.png" style="margin-left: -2%;"></image>
+                </div>
+                <text style="color: #8C8C8C; font-size: 14px; margin-left: 20%;">Incoming call....</text>
+            </div>
+
+            <div class="speedometer">
+                <text style="color:white;font-size:96px;font-weight:800;margin-top:34.5px">48</text>
+                <text style="font-size:24px; color:#8C8C8C;margin-top:10.84px">60 Km/h
+                </text>
+                <text style="font-size:18px; color:#8C8C8C ; margin-top:4.01px">Average Speed
+                </text>
+
+                <text style="font-size:32px; color:white;margin-top:20.01px">2762 Kms
+                </text>
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+        <div class="right">
+
+            <image src="/common/images/right/music_image.png" style="height: 241px; width: 241px;"></image>
+            <text style="color: white; font-size: 18px; margin-top: 4%;">In the Name of Love</text>
+            <text style="color: white; font-size: 14px; margin-top: 4%;">Album Name</text>
+
+            <div class="musicProgress">
+                <div>
+                    <progress class="musicbar" type="horizontal" percent= "70"></progress>
+
+                </div>
+                <div>
+                    <text style="color:#8C8C8C; ;margin-top: 5px; font-size:10px;color:white">00:00</text>
+                    <text style="color:#8C8C8C; left: 600%;margin-top: 5px; font-size:10px;color:white">04:55</text>
+                </div>
+
+            </div>
+            
+            <div class="musicButtons">
+                <image src="/common/images/right/previous.png"  style=" width:28px;height:23px"></image>
+                <image src="/common/images/right/pause.png" style=" width:22px;height:30px"></image>
+                <image src="/common/images/right/next_on.png" style=" width:52px;height:52px"></image>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="child-container3">
+        <image src="/common/images/bottom/menu.png"  style=" width:31px;height:31px"></image>
+        <image src="/common/images/bottom/location.png"  style=" width:23px;height:30px"></image>
+        <image src="/common/images/bottom/home.png"  style=" width:37px;height:37px;margin-right: 80px;"></image>
+        <image src="/common/images/bottom/Hearphone_select.png"  style=" width:30px;height:30px"></image>
+        <image src="/common/images/bottom/contact_icon.png"  style=" width:30px;height:30px"></image>
+    </div>
+
+
+</div>
+
+
+
+
+
