@@ -12,7 +12,7 @@
             <image class="image"src="/common/images/header/left_indicator_on.png" alt="left_indicator"style="margin-left:36px;" />
             <image class="image "src="/common/images/header/low_beam.png" alt="low_beam"/>
             <image class="image "src="/common/images/header/bluetooth.png" alt="bluetooth"/>
-            <text style="color: white;  font-weight: 800; font-size: 27.3px;"> &nbsp;0 1&nbsp;&nbsp;:&nbsp;&nbsp;2 0&nbsp;&nbsp;P M&nbsp;&nbsp; </text>
+             <text style="color: white;  font-weight: 800; font-size: 27.3px;"> &nbsp;0 1&nbsp;&nbsp;:&nbsp;&nbsp;2 0&nbsp;&nbsp;P M&nbsp;&nbsp; </text>
             <image class="image "src="/common/images/header/side_stand.png" alt="sidestand"/>
             <image class="image "src="/common/images/header/high_beam_on.png" alt="high_beam"/>
             <image class="image "src="/common/images/header/right_indicator_off.png" style="margin-right:36px ;" alt="right_beam"/>
